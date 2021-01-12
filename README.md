@@ -1,4 +1,6 @@
-### Hi everyone 👋 My name is Matheus, currently a programming student and passionate about technology. 
+## Hi everyone 👋 
+
+### My name is Matheus, currently a programming student and passionate about technology. 
 
 
 - 🌱 I'm currently studying HTML, CSS and JavaScript !
